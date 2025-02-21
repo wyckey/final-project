@@ -1,0 +1,26 @@
+.crimson {
+  color: crimson;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.more-margin {
+  margin-bottom: 25px;
+}
+
+.carousel-item img {
+  max-height: 600px;
+  width: auto;
+  object-fit: cover;
+}
+
+.languages {
+  font-weight: bold;
+  color: crimson;
+}
+
+.question-image {
+  max-height: 200px;
+  width: auto;
+  object-fit: cover;
+}
